@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **My DND Character Sheet Creator**
 
-- 🌱 I’m currently learning **Rust and the Bevy game engine**
+- 🌱 I’m currently learning **Golang**
 
-- 👯 I’m looking to collaborate on **Projects involving .NET or Rust**
+- 👯 I’m looking to collaborate on **Projects involving .NET**
 
 - 💬 Ask me about **.NET, Backend Development, APIs**
 
