@@ -1,11 +1,11 @@
 <h1 align="center">Hello! I'm Marcus Moore!</h1>
 <h3 align="center">A .NET Software Engineer from America</h3>
 
-- 🔭 I’m currently working on **My DND Character Sheet Creator**
+- 🔭 I’m currently working on **Zero To Prod in Rust**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on **Projects involving .NET**
+- 👯 I’m looking to collaborate on **Projects involving Rust**
 
 - 💬 Ask me about **.NET, Backend Development, APIs**
 
