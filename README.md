@@ -1,8 +1,6 @@
 <h1 align="center">Hello! I'm Marcus Moore!</h1>
 <h3 align="center">A .NET Software Engineer from America</h3>
 
-- 🔭 I’m currently working on **Zero To Prod in Rust**
-
 - 🌱 I’m currently learning **C, Embedded Engineering**
 
 - 👯 I’m looking to collaborate on **Embedded Engineering projects**
