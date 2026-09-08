@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Zero To Prod in Rust**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **C, Embedded Engineering**
 
-- 👯 I’m looking to collaborate on **Projects involving Rust**
+- 👯 I’m looking to collaborate on **Embedded Engineering projects**
 
 - 💬 Ask me about **.NET, Backend Development, APIs**
 
